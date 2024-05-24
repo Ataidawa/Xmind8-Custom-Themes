@@ -12,7 +12,7 @@
 2. 打开Xmind 8 -> 工具 -> 导入Xmind资源包(I) -> 浏览……
 3. 找到位于本地的项目文件，xrb文件在“.xrb”文件夹中，风格样式可在“.preview”文件夹中预览
 4. 完成(F)
-
+---
 1. Download this project locally
 2. Open Xmind 8 -> Tools -> Import Xmind Resource Kit(I) -> Browse...
 3. Find the project file locally, the xrb file is in the ‘.xrb’ folder, the style can be previewed in the ‘.preview’ folder.
