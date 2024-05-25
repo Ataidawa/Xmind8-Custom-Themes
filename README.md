@@ -19,7 +19,7 @@
   <t>Chinese Beta 传统色</t>
 </div>
 
----
+<br height="30px">
 
 <div>
   <img src="https://github.com/Ataidawa/Xmind8-Custom-Themes/blob/main/.preview/Halcyon.jpg" width="400px">
@@ -27,7 +27,7 @@
   <t>Halcyon  翡翠三青</t>
 </div>
 
----
+<br height="30px">
 
 <div>
   <img src="https://github.com/Ataidawa/Xmind8-Custom-Themes/blob/main/.preview/Lapis-Lazuli.jpg" width="400px">
